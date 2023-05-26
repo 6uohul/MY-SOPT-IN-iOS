@@ -132,6 +132,10 @@ prefix는 Issue에 있는 Prefix와 동일하게 사용한다.
 [Design] #1 - 레이아웃 구현
 ```
 
+## 최종 과제
+<img width="640" alt="image" src="https://github.com/6uohul/MY-SOPT-IN-iOS/assets/83493636/5f371a77-9fc5-41f5-810b-91f4648d00c5">
+
+
 </br>
 
 ## 🌀  Code Covention
